@@ -10,6 +10,7 @@ dependencies:
   dartz: ^0.10.1
   flutter:
     sdk: flutter
+  get_it: ^7.6.4
   http: ^1.1.0
   mockito: ^5.4.3
 

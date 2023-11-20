@@ -1,7 +1,6 @@
 import 'package:anime_cast/core/error/failure.dart';
 import 'package:anime_cast/data/models/anime.dart';
 import 'package:anime_cast/domain/use_cases/get_anime_by_id.dart';
-import 'package:anime_cast/domain/use_cases/get_top_anime.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';

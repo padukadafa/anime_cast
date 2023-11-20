@@ -1,11 +1,8 @@
 import 'package:anime_cast/core/error/failure.dart';
 import 'package:anime_cast/data/models/anime.dart';
-import 'package:anime_cast/domain/repositories/anime_repository.dart';
-import 'package:anime_cast/domain/use_cases/get_anime.dart';
 import 'package:anime_cast/domain/use_cases/get_top_anime.dart';
 import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 
 import '../../core/values/anime_list.dart';
